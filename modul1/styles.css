@@ -1,0 +1,30 @@
+body {
+    background-color: gold;
+    color: black;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: gold;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.container h2 {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
